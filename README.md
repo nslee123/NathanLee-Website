@@ -1,6 +1,3 @@
+# Nathan Lee's Website (862120679)
 
-# Welcome to LearnCS8 Resume Website
-
-This is an template website for you to fill in your own information. Follow the instructions at https://learncs8.com
-
-Special thanks to the open source bootstrap libraries that made this website possible. 
+![This is my website that I created for the CS008 Lab!](img/nathan lee website.PNG)
